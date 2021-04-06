@@ -8,9 +8,9 @@ Your task is to build the backend for this search tool.
 
 ## Provided Files
 
-`index.html`		The webpage with the search interface.
-`search.js`		Javascript employed by `index.html`.
-`generate_locations.py`	A program with a command line interface for generating locations. Do not modify this file unless asked.
-`requirements.txt`	The pip packages used to run generate_locations.py
-`brief.md`		This file.
+- `index.html`		The webpage with the search interface.
+- `search.js`		Javascript employed by `index.html`.
+- `generate_locations.py`	A program with a command line interface for generating locations. Do not modify this file unless asked.
+- `requirements.txt`	The pip packages used to run generate_locations.py
+- `brief.md`		This file.
 
